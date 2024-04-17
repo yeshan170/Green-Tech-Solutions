@@ -1,2 +1,2 @@
-# Green-Tech-Solutions
-Computer Group Project 
+
+https://frontenddevproj2.netlify.app/
